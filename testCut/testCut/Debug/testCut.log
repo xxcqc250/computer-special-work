@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(64): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(74): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(128): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(241): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(268): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(278): warning C4018: '<': signed/unsigned 不相符
+c:\users\a6424\onedrive\專題程式\testcut\testcut\source.cpp(362): warning C4018: '<': signed/unsigned 不相符
+  LINK : 最後的累加連結找不到或未建置 C:\Users\a6424\OneDrive\專題程式\testCut\Debug\testCut.exe，正在執行完整連結
+  testCut.vcxproj -> C:\Users\a6424\OneDrive\專題程式\testCut\Debug\testCut.exe
+  testCut.vcxproj -> C:\Users\a6424\OneDrive\專題程式\testCut\Debug\testCut.pdb (Full PDB)
